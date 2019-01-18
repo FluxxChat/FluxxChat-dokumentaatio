@@ -5,3 +5,5 @@
 [Palvelin](https://github.com/FluxxChat/FluxxChat-palvelin)  
 
 [Definition of Done](https://github.com/FluxxChat/FluxxChat-dokumentaatio/blob/master/DOD.md)
+
+[Product Backlog](https://trello.com/b/jaB1xwb5/product-backlog)

@@ -10,5 +10,5 @@
 
 ### Staging Palvelin / Server
 
-[Webasiakas / Webclient](https://fluxxchat-webasiakas.herokuapp.com/)
+[Webasiakas / Webclient](https://fluxxchat-webasiakas.herokuapp.com/)  
 [Palvelin / Server](https://fluxxchat-palvelin.herokuapp.com/)

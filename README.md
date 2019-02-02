@@ -15,4 +15,4 @@
 
 ### Osallistuminen / Contributing
 
-[CSS](https://github.com/FluxxChat/FluxxChat-dokumentaatio/blob/master/DOD.md)
+[CSS](https://github.com/FluxxChat/FluxxChat-dokumentaatio/blob/master/CSS.md)

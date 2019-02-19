@@ -12,7 +12,3 @@
 
 [Webasiakas / Webclient](https://fluxxchat-webasiakas.herokuapp.com/)  
 [Palvelin / Server](https://fluxxchat-palvelin.herokuapp.com/)
-
-### Osallistuminen / Contributing
-
-[CSS](https://github.com/FluxxChat/FluxxChat-dokumentaatio/blob/master/CSS.md)

@@ -15,4 +15,4 @@
 
 ### Osallistuminen / Contributing
 
-[CSS](https://github.com/FluxxChat/FluxxChat-dokumentaatio/blob/master/CSS.md)
+[Styling / Tyyli](https://github.com/FluxxChat/FluxxChat-dokumentaatio/blob/master/STYLING.md)

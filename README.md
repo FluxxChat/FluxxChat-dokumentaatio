@@ -24,3 +24,13 @@
 ### Osallistuminen / Contributing
 
 [Styling / Tyyli](https://github.com/FluxxChat/FluxxChat-dokumentaatio/blob/master/STYLING.md)
+
+### Lisence / Lisenssi
+
+FluxxChat is released under GNU General Public License version 3.0 or later.
+The owner of the copyright is the University of Helsinki.
+The authors of the program are listed in the CONTRIBUTORS files in the root directories of the repositories.
+
+FluxxChat on tehty osana Helsingin yliopiston Ohjelmistotuotantoprojekti-kurssia ja se on julkaistu GNU GPLv3 tai myöhempi -lisenssillä.
+Tekijät ovat luovuttaneet yliopiston vaatimuksesta tekijänoikeutensa Helsingin yliopistolle.
+Ohjelman tekemiseen osallistuneet on listattu CONTRIBUTORS-tiedostoissa kunkin repositorion juurikansiossa.

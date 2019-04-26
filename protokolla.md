@@ -20,7 +20,9 @@ Istunnon päättyessä asiakas lähettää LEAVE_ROOM-viestin, jonka jälkeen yh
 
 Koska tahansa istunnon aikana asiakas voi lähettää PROFILE_IMG_CHANGE-viestejä muuttaakseen profiilikuvaansa ja palvelin KEEP_ALIVE-viestejä, jotka eivät tee mitään muuta, kuin pitävät yhteyden olemassa.
 
-**Tämä dokumentti on yleisen tason kuvaus protokollasta. Katso protokollan lähdekoodi ja sen kommentointi saadaksesi yksityiskohtaista tietoa.**
+**Tämä dokumentti on yleisen tason kuvaus protokollasta. Katso protokollan [lähdekoodi] ja sen kommentointi saadaksesi yksityiskohtaista tietoa.**
+
+[lähdekoodi]: https://github.com/FluxxChat/FluxxChat-protokolla/blob/master/lib/index.ts
 
 ## Yleiset viestit
 

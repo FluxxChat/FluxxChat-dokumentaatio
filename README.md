@@ -8,7 +8,7 @@
 
 #### Määritysdokumentit / Reference documents
 
-[Protokollan dokumentaatio](https://github.com/FluxxChat/FluxxChat-dokumentaatio/blob/master/protokolla.md)
+[Protokollan dokumentaatio](https://github.com/FluxxChat/FluxxChat-dokumentaatio/blob/master/protokolla.md)  
 [Huijauskoodit / Cheat codes](https://github.com/FluxxChat/FluxxChat-dokumentaatio/blob/master/cheats-huijauskoodit.md)
 
 #### Apuvälineet / Tools

@@ -84,6 +84,10 @@ Palvelimelta lähtöisin oleva pikaviesti. Sisältää tyypillisesti ilmoituksen
 
 Vastaus TEXT-viestiin, jonka `validateOnly`-kenttä on `true`. Sisältää listan säännöistä, joita tarkasteltu viesti rikkoo.
 
+#### WORD_PREDICTION
+
+Palvelin lähettää tämän viestin VALIDATE_TEXT_RESPONSE-viestin yhteydessä, jos ennakoiva tekstinsyöttö on otettu säännöllä käyttöön.
+
 ## Käännösmerkkijonot
 
 Palvemen lähettämät SYSTEM-, ERROR- ja ROOM_STATE-viestit eivät sisällä luonnollista kieltä, vaan käännöskoodeja. Asiakkaan oletetaan korvaavan koodit LANGUAGE_DATA-viestissä annetuilla käännösmerkkijonoilla ennen niiden näyttämistä käyttäjälle.

@@ -9,7 +9,7 @@ Asiakkaan voi istunnon aikana joko olla huoneessa tai olla olematta huoneessa, j
 Tyypillisesti istunnon alussa tapahtuu seuraavia asioita:
 
 1. Asiakas ja palvelin muodostavat WebSocket-yhteyden.
-2. Palvelin lähettää asiakkaalle LANGUAGE_DATA-viestin, joka sisältää palvelimen käännösmerkkijonot palvelimen tukemilla kielillä.
+2. Palvelin lähettää asiakkaalle SERVER_STATE-viestin, joka sisältää mm. palvelimen käännösmerkkijonot palvelimen tukemilla kielillä ja listan palvelimen tukemista korteista.
 3. (*valinnainen*) Asiakas lähettää CREATE_ROOM-viestin, johon palvelin vastaa ROOM_CREATED-viestillä, joka sisältää huoneen tunnisteen.
 4. Asiakas lähettää JOIN_ROOM-viestin, jonka mukana on huoneen tunniste.
 5. Palvelin lähettää asiakkaalle ROOM_STATE-viestin, joka sisältää tiedot huoneessa olijoista ja voimassa olevista säännöistä.

@@ -23,7 +23,8 @@
 
 ### Osallistuminen / Contributing
 
-[Styling / Tyyli](https://github.com/FluxxChat/FluxxChat-dokumentaatio/blob/master/STYLING.md)
+[Tyyli / Styling](https://github.com/FluxxChat/FluxxChat-dokumentaatio/blob/master/STYLING.md)  
+[Säännön luominen](https://github.com/FluxxChat/FluxxChat-dokumentaatio/blob/master/säännön-luominen.md)
 
 ### Lisenssi / License.
 
